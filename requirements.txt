@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 streamlit
 pandas
 openpyxl
-=======
-streamlit
-pandas
-openpyxl
->>>>>>> 818ee4dd8a6c6740eb1eeac756e1c3f711203745
 xlsxwriter
