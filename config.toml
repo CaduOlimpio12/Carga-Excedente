@@ -1,0 +1,9 @@
+[theme]
+base = "light"
+
+primaryColor = "#1b5d5d"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f6fafa"
+textColor = "#1b5d5d"
+
+font = "Aptos"
